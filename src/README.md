@@ -1,0 +1,1 @@
+The src/ directory contains the code you are writing. The data you are analyzing should live here too.
